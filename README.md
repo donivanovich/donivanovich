@@ -1,9 +1,8 @@
 ## Hi there, i'm Ivan 
 
-- Programming student in Spain of Ukrainian origin.
+- Programming student in Spain.
 - Passionate about learning new technologies and programming languages.
-- Trilingual, with great ease in learning and adapting to new languages.
-- Currently seeking job opportunities as a software and web developer.
+- With great ease in learning and adapting to new languages.
 
 ---
 
