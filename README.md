@@ -25,8 +25,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ivan-kosolovskyy-fetsyk-b24325222/) 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/FDAn8q6e) 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ivankosofetsyk/) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kosoivan12@gmail.com) 
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/donivanovich) 
 
 ---
 
