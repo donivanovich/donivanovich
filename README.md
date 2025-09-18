@@ -6,10 +6,6 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich)
-
----
-
 ### 📚 Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,php,mysql,python,java)](https://skillicons.dev)
 
