@@ -8,6 +8,7 @@
 
 ### 📚 Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,php,mysql,python,java)](https://skillicons.dev)
+Others: Visual Basic, Json, AL, MarkDown
 
 ---
 
