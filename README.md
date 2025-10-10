@@ -29,18 +29,24 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark)[![GitHub Streak](https://streak-stats.demolab.com/?user=donivanovich&theme=radical)](https://github.com/donivanovich)
-![donivanovich's Contributions](https://github.pumbas.net/api/contributions/donivanovich)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=donivanovich&show_icons=true&theme=radical)](https://github.com/donivanovich)
+<!-- Tabla en la parte superior: lenguajes / stats y streak -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark" alt="Top lenguajes">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=donivanovich&show_icons=true&theme=radical" alt="GitHub Stats"><br>
+      <a href="https://github.com/donivanovich">
+        <img src="https://streak-stats.demolab.com/?user=donivanovich&theme=radical" alt="Streak Stats">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- Lenguajes más usados (puedes mantenerlo arriba si quieres) -->
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark)
+<!-- Gráfico de contribuciones debajo -->
+<p align="center">
+  <img src="https://github.pumbas.net/api/contributions/donivanovich" alt="Contribuciones">
+</p>
 
-<!-- Primera tarjeta morada: estadísticas de contribuciones -->
-![Contribuciones](https://github.pumbas.net/api/contributions/donivanovich)
-
-<!-- Segunda tarjeta morada: racha de contribuciones -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=donivanovich&theme=radical)](https://github.com/donivanovich)
-
-<!-- Estadísticas generales -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donivanovich&show_icons=true&theme=radical)
 
