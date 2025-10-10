@@ -32,4 +32,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark)[![GitHub Streak](https://streak-stats.demolab.com/?user=donivanovich&theme=radical)](https://github.com/donivanovich)
 ![donivanovich's Contributions](https://github.pumbas.net/api/contributions/donivanovich)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=donivanovich&show_icons=true&theme=radical)](https://github.com/donivanovich)
 
+<!-- Lenguajes más usados (puedes mantenerlo arriba si quieres) -->
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark)
+
+<!-- Primera tarjeta morada: estadísticas de contribuciones -->
+![Contribuciones](https://github.pumbas.net/api/contributions/donivanovich)
+
+<!-- Segunda tarjeta morada: racha de contribuciones -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=donivanovich&theme=radical)](https://github.com/donivanovich)
+
+<!-- Estadísticas generales -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donivanovich&show_icons=true&theme=radical)
 
