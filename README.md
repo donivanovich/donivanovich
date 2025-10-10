@@ -30,5 +30,6 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark)[![GitHub Streak](https://streak-stats.demolab.com/?user=donivanovich&theme=radical)](https://github.com/donivanovich)
-![donivanovich's Contributions](https://github.pumbas.net/api/contributions/donivanovich)
+![donivanovich's Contributions](https://github.pumbas.net/api/contributions/donivanovich)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=donivanovich&show_icons=true&theme=radical)](https://github.com/donivanovich)
+
 
