@@ -44,30 +44,3 @@
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <table>
-    <tr>
-      <!-- Tarjeta vertical de lenguajes -->
-      <td rowspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark&hide_border=true" alt="Top lenguajes">
-      </td>
-      <!-- Primera tarjeta apilada: stats generales -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=donivanovich&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-      </td>
-    </tr>
-    <tr>
-      <!-- Segunda tarjeta apilada: streak -->
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=donivanovich&theme=radical&hide_border=true" alt="Streak Stats">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://github.pumbas.net/api/contributions/donivanovich" alt="Contribuciones">
-</p>
-
-
