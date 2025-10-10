@@ -34,11 +34,5 @@
 </p> 
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark" alt="Top lenguajes">
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark" alt="Top lenguajes">
 </div>
