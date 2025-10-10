@@ -29,23 +29,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.pumbas.net/api/contributions/donivanovich" alt="Contribuciones">
+</p> 
+
 <div align="center">
   <table>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark" alt="Top lenguajes">
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=donivanovich&show_icons=true&theme=radical" alt="GitHub Stats"><br>
-        <a href="https://github.com/donivanovich">
-          <img src="https://streak-stats.demolab.com/?user=donivanovich&theme=radical" alt="Streak Stats">
-        </a>
-      </td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <img src="https://github.pumbas.net/api/contributions/donivanovich" alt="Contribuciones">
-</p>
-
