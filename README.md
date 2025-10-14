@@ -13,7 +13,7 @@
 ---
 
 ### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,eclipse,unity,visualstudio,vscode,bootstrap,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,eclipse,unity,visualstudio,vscode,bootstrap,git,docker)](https://skillicons.dev)
 
 ---
 
