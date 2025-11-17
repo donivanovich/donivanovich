@@ -15,7 +15,7 @@
 ### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,eclipse,unity,visualstudio,vscode,bootstrap,git,docker
 )](https://skillicons.dev)  
-*Others: Dev C++, MySQL Workbench, Business Central*
+*Others: Dev C++, MySQL Workbench, Business Central, Power BI, n8n*
 
 ---
 
