@@ -20,7 +20,7 @@
 ---
 
 ### 🖥️ Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,debian)](https://skillicons.dev)
 
 ---
 
