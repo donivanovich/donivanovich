@@ -24,10 +24,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark" alt="Top lenguajes" width="400"/>
-  <img src="https://github.pumbas.net/api/contributions/donivanovich" alt="Contribuciones" width="600"/>
-</div>
+
 
 ---
 
