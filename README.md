@@ -24,7 +24,10 @@
 
 ---
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eef3ec2e-d4c2-4b0e-8fe9-06094b1f03db" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=onedark" alt="Top lenguajes" width="400"/>
+  <img src="https://github.pumbas.net/api/contributions/donivanovich" alt="Contribuciones" width="600"/>
+</div>
 
 ---
 
