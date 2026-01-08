@@ -13,7 +13,7 @@
 ---
 
 ### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,eclipse,unity,visualstudio,vscode,bootstrap,git,docker,androidstudio)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,docker,aws,eclipse,unity,visualstudio,vscode,androidstudio)](https://skillicons.dev)  
 *Others: Dev C++, MySQL Workbench, Business Central, Power BI, n8n, Oracle APEX*
 
 ---
