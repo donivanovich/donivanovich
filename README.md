@@ -27,8 +27,8 @@
 
 <a href="https://www.credly.com/users/donivanovich" target="_blank" style="text-decoration: none; outline: none; border: none;">
   <div>
-    <img src="badges/aws-academy-graduate-cloud-architecting-training-ba.png" width="100" alt="AWS Academy Graduate" style="vertical-align:middle"/>
     <img src="badges/unity-certified-user-programmer.png" width="100" alt="Unity Certified User Programmer" style="vertical-align:middle"/>
+    <img src="badges/aws-academy-graduate-cloud-architecting-training-ba.png" width="100" alt="AWS Academy Graduate" style="vertical-align:middle"/>
   </div>
 </a>
 
