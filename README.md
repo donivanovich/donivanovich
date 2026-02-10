@@ -46,5 +46,5 @@
 </p> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donivanovich&layout=pie&theme=dark" alt="Top lenguajes">
+  <img src="https://gh-stats.deoxy.dev/api/top-langs/?username=donivanovich&layout=compact&theme=dark" alt="Top lenguajes">
 </div>
