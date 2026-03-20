@@ -6,13 +6,13 @@
 
 ---
 
-### 📚 Frontend
+### 🎨 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react)](https://skillicons.dev)  
 
 ---
 
-### 📚 Backend
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,kotlin,php,mysql,python,java,nodejs,net)](https://skillicons.dev)  
+### 🔧 Backend
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,kotlin,php,mysql,python,java,net)](https://skillicons.dev)  
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ### 🌍 Environments
-[![My Skills](https://skillicons.dev/icons?i=eclipse,unity,visualstudio,vscode,androidstudio)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=eclipse,unity,visualstudio,vscode,androidstudio,nodejs)](https://skillicons.dev)  
 
 ---
 
