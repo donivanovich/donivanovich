@@ -12,7 +12,12 @@
 ---
 
 ### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,docker,aws,eclipse,unity,visualstudio,vscode,androidstudio)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,docker,aws)](https://skillicons.dev)  
+
+---
+
+### 🌍 Environments
+[![My Skills](https://skillicons.dev/icons?i=eclipse,unity,visualstudio,vscode,androidstudio)](https://skillicons.dev)  
 
 ---
 
