@@ -7,7 +7,7 @@
 ---
 
 ### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite)](https://skillicons.dev)  
 
 ---
 
