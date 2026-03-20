@@ -7,14 +7,12 @@
 ---
 
 ### 📚 Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,kotlin,php,mysql,python,java)](https://skillicons.dev)  
-*Others: Visual Basic, AL, MarkDown, Xaml*
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,kotlin,php,mysql,python,java,react,node,typescript)](https://skillicons.dev)  
 
 ---
 
 ### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,git,docker,aws,eclipse,unity,visualstudio,vscode,androidstudio)](https://skillicons.dev)  
-*Others: Dev C++, MySQL Workbench, Business Central, Power BI, n8n, Oracle APEX*
 
 ---
 
