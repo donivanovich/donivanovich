@@ -6,8 +6,13 @@
 
 ---
 
-### 📚 Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,kotlin,php,mysql,python,java,react,nodejs,typescript,net)](https://skillicons.dev)  
+### 📚 Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react)](https://skillicons.dev)  
+
+---
+
+### 📚 Backend
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,kotlin,php,mysql,python,java,nodejs,net)](https://skillicons.dev)  
 
 ---
 
