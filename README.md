@@ -7,7 +7,7 @@
 ---
 
 ### 📚 Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,kotlin,php,mysql,python,java,react,nodejs,typescript)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,kotlin,php,mysql,python,java,react,nodejs,typescript,net)](https://skillicons.dev)  
 
 ---
 
