@@ -7,7 +7,7 @@
 ---
 
 ### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,npm,vue)](https://skillicons.dev)  
 
 ---
 
@@ -17,12 +17,12 @@
 ---
 
 ### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,docker,aws)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,docker,aws,postman)](https://skillicons.dev)  
 
 ---
 
 ### 🌍 Environments
-[![My Skills](https://skillicons.dev/icons?i=eclipse,unity,visualstudio,vscode,androidstudio,nodejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=eclipse,unity,visualstudio,vscode,androidstudio,vim,nodejs)](https://skillicons.dev)  
 
 ---
 
