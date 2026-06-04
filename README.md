@@ -17,7 +17,7 @@
 ---
 
 ### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,gitlab,docker,aws,postman)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,docker,postman,git,gitlab,aws)](https://skillicons.dev)  
 
 ---
 
