@@ -7,7 +7,7 @@
 ---
 
 ### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,npm,vue,nodejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vue)](https://skillicons.dev)  
 
 ---
 
@@ -17,7 +17,7 @@
 ---
 
 ### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,docker,aws,postman)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,gitlab,docker,aws,postman)](https://skillicons.dev)  
 
 ---
 
