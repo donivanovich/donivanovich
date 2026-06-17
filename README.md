@@ -40,6 +40,8 @@
   </div>
 </a>
 
+[![Insignia Credly](https://credly.com)](https://www.credly.com/badges/41de1552-5d1a-4990-8317-fa3e49e788eb/public_url)
+
 ---
 
 ### 🌐 Connect with me
