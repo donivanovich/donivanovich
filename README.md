@@ -86,6 +86,7 @@
       <img src="badges/english-for-it-2.png" width="105" alt="English for IT 2" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
       <img src="badges/english-for-it-advice-and-time.png" width="105" alt="English for IT Advice and Time" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
       <br></br>
+      <img src="badges/Red_Hat_Training__Getting_Started_with_Linux_Fundamentals.png" width="105" alt="Red Hat Linux Fundamentals RH104" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
       <img src="badges/red-hat-system-administration-i-rh124-rha-ver-8-2.png" width="105" alt="Red Hat System Administration I RH124 RHA Ver 8.2" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
       <img src="badges/linux-unhatched.png" width="105" alt="Linux Unhatched" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
     </div>
