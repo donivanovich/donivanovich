@@ -33,19 +33,13 @@
 
 ### 🏆 Certifications
 
-<a href="https://www.credly.com/users/donivanovich" target="_blank" style="text-decoration: none; outline: none; border: none;">
-  <div>
-    <img src="badges/unity-certified-user-programmer.png" width="110" alt="Unity Certified User Programmer" style="vertical-align:middle"/>
-    <img src="badges/aws-academy-graduate-cloud-architecting-training-ba.png" width="100" alt="AWS Academy Graduate" style="vertical-align:middle"/>
-  </div>
-</a>
-
 <a href="https://www.credly.com/users/donivanovich" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; border: none;">
   <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <img src="badges/unity-certified-user-programmer.png" width="110" alt="Unity Certified User Programmer" style="vertical-align: middle;" />
     <img src="badges/aws-academy-graduate-cloud-architecting-training-ba.png" width="100" alt="AWS Academy Graduate Cloud Architecting Training Badge" style="vertical-align: middle;" />
     <img src="badges/ai-fundamentals-with-ibm-skillsbuild.png" width="100" alt="AI Fundamentals with IBM SkillsBuild" style="vertical-align: middle;" />
     <img src="badges/ai-skills-fest-2026.png" width="100" alt="AI Skills Fest 2026" style="vertical-align: middle;" />
+    <br></br>
     <img src="badges/artificial-intelligence-fundamentals.png" width="100" alt="Artificial Intelligence Fundamentals" style="vertical-align: middle;" />
     <img src="badges/css-essentials.png" width="100" alt="CSS Essentials" style="vertical-align: middle;" />
     <img src="badges/english-for-it-1.png" width="100" alt="English for IT 1" style="vertical-align: middle;" />
