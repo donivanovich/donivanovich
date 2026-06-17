@@ -82,6 +82,10 @@
       <img src="badges/python-essentials-1.1.png" width="105" alt="Python Essentials 1.1" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
       <img src="badges/python-essentials-2.png" width="105" alt="Python Essentials 2" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
       <br></br>
+      <img src="badges/pearson_inf-301_as.png" width="105" alt="INF-301" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
+      <img src="badges/pearson_inf-302_as.png" width="105" alt="INF-302" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
+      <img src="badges/pearson_inf-303_as.png" width="105" alt="INF-303" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
+      <br></br>
       <img src="badges/english-for-it-1.png" width="105" alt="English for IT 1" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
       <img src="badges/english-for-it-2.png" width="105" alt="English for IT 2" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
       <img src="badges/english-for-it-advice-and-time.png" width="105" alt="English for IT Advice and Time" style="background:#fff; padding:10px; border-radius:18px; box-shadow:0 6px 16px rgba(0,0,0,0.08); transition:transform .25s ease, box-shadow .25s ease;" />
