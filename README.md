@@ -37,23 +37,8 @@
   <div>
     <img src="badges/unity-certified-user-programmer.png" width="110" alt="Unity Certified User Programmer" style="vertical-align:middle"/>
     <img src="badges/aws-academy-graduate-cloud-architecting-training-ba.png" width="100" alt="AWS Academy Graduate" style="vertical-align:middle"/>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="41de1552-5d1a-4990-8317-fa3e49e788eb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   </div>
 </a>
-
-<p align="left">
-  <a href="https://www.credly.com/users/donivanovich" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="badges/unity-certified-user-programmer.png" width="110" alt="Unity Certified User Programmer" />
-  </a>
-
-  <a href="https://www.credly.com/users/donivanovich" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="badges/aws-academy-graduate-cloud-architecting-training-ba.png" width="100" alt="AWS Academy Graduate Cloud Architecting" />
-  </a>
-
-  <a href="https://www.credly.com/badges/41de1552-5d1a-4990-8317-fa3e49e788eb/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://images.credly.com/size/150x150/images/41de1552-5d1a-4990-8317-fa3e49e788eb.png" width="110" alt="Credly Badge" />
-  </a>
-</p>
 
 ---
 
