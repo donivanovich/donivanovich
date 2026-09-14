@@ -12,7 +12,7 @@
 ---
 
 ### 🔧 Backend
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,net,solidity,mongo,kotlin,php,python,java,mysql)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,solidity,net,mongo,kotlin,php,python,java,mysql)](https://skillicons.dev)  
 
 ---
 
