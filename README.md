@@ -1,10 +1,3 @@
-## Hi there, i'm Ivan 
-
-- Programming student in Spain.
-- Passionate about learning new technologies and programming languages.
-- With great ease in learning and adapting to new languages.
-
----
 
 ### 🎨 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vue)](https://skillicons.dev)  
