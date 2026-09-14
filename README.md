@@ -100,10 +100,7 @@
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ivan-kosolovskyy-fetsyk-b24325222/) 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/FDAn8q6e) 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ivankosofetsyk/) 
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ivan-kosolovskyy-fetsyk-b24325222/)
 ---
 
 <p align="center">
