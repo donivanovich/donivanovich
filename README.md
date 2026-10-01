@@ -1,6 +1,6 @@
 
 ### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vue)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,vue)](https://skillicons.dev)  
 
 ---
 
