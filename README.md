@@ -5,7 +5,7 @@
 ---
 
 ### 🔧 Backend
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,solidity,net,mongo,kotlin,php,python,java,mysql,spring)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,solidity,net,mongo,kotlin,php,python,java,mysql,spring,express)](https://skillicons.dev)  
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ### 🖥️ Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,debian,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,debian,raspberrypi,kali)](https://skillicons.dev)
 
 ---
 
