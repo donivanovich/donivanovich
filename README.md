@@ -1,25 +1,25 @@
 ### 🎨 Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue,tailwind,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,vue,tailwind)](https://skillicons.dev)
 
 ---
 
 ### 🔧 Backend Development
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,python,cs,dotnet,kotlin)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nestjs,java,spring,php,python,kotlin)](https://skillicons.dev)
 
 ---
 
 ### 💻 Programming Languages
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,solidity,java,kotlin,php,python,js,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,solidity,js,ts,java,kotlin,php,python)](https://skillicons.dev)
 
 ---
 
 ### 🗄️ Databases & ORM
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,prisma)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,prisma,mysql,postgres,redis)](https://skillicons.dev)
 
 ---
 
 ### ⚙️ Tools & DevOps
-[![Tools](https://skillicons.dev/icons?i=git,gitlab,docker,postman,aws,npm,pnpm,vite,vitest)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,postman,git,gitlab,aws,npm,pnpm,vite,vitest)](https://skillicons.dev)
 
 ---
 
@@ -35,6 +35,9 @@
 
 ### 📝 Other Technologies
 [![Other Technologies](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+
+---
+
 <a href="https://www.credly.com/users/donivanovich"
    target="_blank"
    rel="noopener noreferrer"
