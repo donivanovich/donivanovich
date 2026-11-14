@@ -1,29 +1,40 @@
-
-### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,vue)](https://skillicons.dev)  
-
----
-
-### 🔧 Backend
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,solidity,net,mongo,kotlin,php,python,java,mysql,spring,express)](https://skillicons.dev)  
+### 🎨 Frontend Development
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue,tailwind,bootstrap)](https://skillicons.dev)
 
 ---
 
-### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,docker,postman,git,gitlab,aws)](https://skillicons.dev)  
+### 🔧 Backend Development
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,python,cs,dotnet,kotlin)](https://skillicons.dev)
 
 ---
 
-### 🌍 Environments
-[![My Skills](https://skillicons.dev/icons?i=eclipse,unity,visualstudio,vscode,androidstudio,vim)](https://skillicons.dev)  
+### 💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,solidity,java,kotlin,php,python,js,ts)](https://skillicons.dev)
+
+---
+
+### 🗄️ Databases & ORM
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,prisma)](https://skillicons.dev)
+
+---
+
+### ⚙️ Tools & DevOps
+[![Tools](https://skillicons.dev/icons?i=git,gitlab,docker,postman,aws,npm,pnpm,vite,vitest)](https://skillicons.dev)
+
+---
+
+### 🌍 IDEs & Environments
+[![Environments](https://skillicons.dev/icons?i=eclipse,unity,visualstudio,vscode,androidstudio,vim)](https://skillicons.dev)
 
 ---
 
 ### 🖥️ Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,debian,raspberrypi,kali)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,debian,raspberrypi,kali)](https://skillicons.dev)
 
 ---
 
+### 📝 Other Technologies
+[![Other Technologies](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 <a href="https://www.credly.com/users/donivanovich"
    target="_blank"
    rel="noopener noreferrer"
