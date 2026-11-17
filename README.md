@@ -1,5 +1,5 @@
 ### 🎨 Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,vue,tailwind,scss)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,scss,angular,react,vue,tailwind)](https://skillicons.dev)
 
 ---
 
