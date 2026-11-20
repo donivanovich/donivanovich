@@ -1,5 +1,5 @@
 ### 🤖 Artificial Intelligence & GenAI
-[![AI](https://skillicons.dev/icons?i=ai,chatgpt,claude,aws)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=chatgpt,claude)](https://skillicons.dev)
 
 ---
 
