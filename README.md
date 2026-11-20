@@ -1,13 +1,13 @@
 ### 🤖 Artificial Intelligence & GenAI
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Anthropic" />
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Gemini" />
-  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="40" alt="DeepSeek" />
-  <img src="https://cdn.simpleicons.org/perplexity/20808D" height="40" alt="Perplexity" />
-  <img src="https://cdn.simpleicons.org/ollama/000000" height="40" alt="Ollama" />
-  <img src="https://cdn.simpleicons.org/cursor/000000" height="40" alt="Cursor" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Anthropic" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Gemini" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="40" alt="DeepSeek" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/perplexity/20808D" height="40" alt="Perplexity" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="40" alt="Ollama" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/000000" height="40" alt="Cursor" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" height="40" alt="GitHub Copilot" />
 </p>
 
