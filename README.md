@@ -1,7 +1,6 @@
 ### 🤖 Artificial Intelligence & GenAI
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/000000" height="40" alt="OpenAI" />
   <img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Anthropic" />
   <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Gemini" />
