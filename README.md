@@ -1,3 +1,8 @@
+### 🤖 Artificial Intelligence & GenAI
+[![AI](https://skillicons.dev/icons?i=ai,chatgpt,claude,aws)](https://skillicons.dev)
+
+---
+
 ### 🎨 Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,scss,angular,react,vue,tailwind)](https://skillicons.dev)
 
