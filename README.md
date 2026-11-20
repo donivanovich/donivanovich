@@ -1,13 +1,17 @@
 ### 🤖 Artificial Intelligence & GenAI
+
 <p align="left">
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="48" alt="OpenAI" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" height="48" alt="Claude" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" height="48" alt="Gemini" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" height="48" alt="Antigravity" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek.svg" height="48" alt="DeepSeek" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="48" alt="Cursor" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="48" alt="Ollama" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="64" height="64" alt="OpenAI" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" width="64" height="64" alt="Claude" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" width="64" height="64" alt="Gemini" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" width="64" height="64" alt="Antigravity" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek.svg" width="64" height="64" alt="DeepSeek" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" width="64" height="64" alt="Cursor" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="64" height="64" alt="Ollama" />
 </p>
+
+---
+
 
 ---
 
