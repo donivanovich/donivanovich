@@ -1,5 +1,8 @@
 ### 🤖 Artificial Intelligence & GenAI
-[![AI](https://skillicons.dev/icons?i=chatgpt,claude)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons-static-svg@latest/icons/claude.svg" height="48" alt="Claude" />
+<img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons-static-svg@latest/icons/gemini.svg" height="48" alt="Gemini" />
+<img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons-static-svg@latest/icons/deepseek.svg" height="48" alt="DeepSeek" />
+<img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons-static-svg@latest/icons/cursor.svg" height="48" alt="Cursor" />
 
 ---
 
