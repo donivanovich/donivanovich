@@ -1,12 +1,12 @@
 ### 🤖 Artificial Intelligence & GenAI
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-FFFFFF?style=for-the-badge&logo=openai&logoColor=412991" height="38" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-FFFFFF?style=for-the-badge&logo=claude&logoColor=D97757" height="38" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-FFFFFF?style=for-the-badge&logo=googlegemini&logoColor=4285F4" height="38" alt="Gemini" />
-  <img src="https://img.shields.io/badge/DeepSeek-FFFFFF?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" height="38" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Cursor-FFFFFF?style=for-the-badge&logo=cursor&logoColor=000000" height="38" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=000000" height="38" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Gemini" />
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="40" alt="DeepSeek" />
+  <img src="https://cdn.simpleicons.org/cursor/000000" height="40" alt="Cursor" />
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="40" alt="Ollama" />
 </p>
 
 ---
