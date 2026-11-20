@@ -1,16 +1,17 @@
 ### 🤖 Artificial Intelligence & GenAI
 
 <p align="left">
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="52" height="52" alt="OpenAI" style="background-color: white; padding: 8px; border-radius: 12px; margin: 5px;" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" width="52" height="52" alt="Claude" style="background-color: white; padding: 8px; border-radius: 12px; margin: 5px;" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" width="52" height="52" alt="Gemini" style="background-color: white; padding: 8px; border-radius: 12px; margin: 5px;" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" width="52" height="52" alt="Antigravity" style="background-color: white; padding: 8px; border-radius: 12px; margin: 5px;" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek.svg" width="52" height="52" alt="DeepSeek" style="background-color: white; padding: 8px; border-radius: 12px; margin: 5px;" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" width="52" height="52" alt="Cursor" style="background-color: white; padding: 8px; border-radius: 12px; margin: 5px;" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="52" height="52" alt="Ollama" style="background-color: white; padding: 8px; border-radius: 12px; margin: 5px;" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="44" height="44" alt="OpenAI" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" width="44" height="44" alt="Claude" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" width="44" height="44" alt="Gemini" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" width="44" height="44" alt="Antigravity" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek.svg" width="44" height="44" alt="DeepSeek" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" width="44" height="44" alt="Cursor" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" width="44" height="44" alt="Ollama" />
 </p>
 
 ---
+
 
 ### 🎨 Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,scss,angular,react,vue,tailwind)](https://skillicons.dev)
