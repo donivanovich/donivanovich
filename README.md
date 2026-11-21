@@ -1,15 +1,17 @@
 ### 🤖 Artificial Intelligence & GenAI
 
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="40" alt="Anthropic" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Gemini" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="40" alt="DeepSeek" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/perplexity/20808D" height="40" alt="Perplexity" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/000000" height="40" alt="Ollama" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/000000" height="40" alt="Cursor" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" height="40" alt="GitHub Copilot" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40" alt="Anthropic" style="background-color: #E5E7EB; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude" style="background-color: #E5E7EB; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Gemini" style="background-color: #E5E7EB; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="40" height="40" alt="DeepSeek" style="background-color: #E5E7EB; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/perplexity/20808D" width="40" height="40" alt="Perplexity" style="background-color: #E5E7EB; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/000000" width="40" height="40" alt="Ollama" style="background-color: #E5E7EB; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/000000" width="40" height="40" alt="Cursor" style="background-color: #E5E7EB; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="40" height="40" alt="GitHub Copilot" style="background-color: #E5E7EB; padding: 8px; border-radius: 10px;" />
 </p>
+
 
 ---
 
