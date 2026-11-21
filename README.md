@@ -2,14 +2,14 @@
 
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40" alt="Anthropic" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Gemini" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="40" height="40" alt="DeepSeek" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/perplexity/20808D" width="40" height="40" alt="Perplexity" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/000000" width="40" height="40" alt="Ollama" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/000000" width="40" height="40" alt="Cursor" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="40" height="40" alt="GitHub Copilot" style="background-color: #242938; padding: 8px; border-radius: 10px;" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="50" height="50" alt="Anthropic" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="50" height="50" alt="Claude" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50" height="50" alt="Gemini" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="50" height="50" alt="DeepSeek" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/perplexity/20808D" width="50" height="50" alt="Perplexity" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/000000" width="50" height="50" alt="Ollama" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/000000" width="50" height="50" alt="Cursor" style="background-color: #242938; padding: 8px; border-radius: 10px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="50" height="50" alt="GitHub Copilot" style="background-color: #242938; padding: 8px; border-radius: 10px;" />
 </p>
 
 
