@@ -8,7 +8,7 @@
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" height="45" alt="Gemini" style="background-color: #242938; padding: 8px; border-radius: 20px;" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="45" height="45" alt="DeepSeek" style="background-color: #242938; padding: 8px; border-radius: 20px;" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/perplexity/20808D" width="45" height="45" alt="Perplexity" style="background-color: #242938; padding: 8px; border-radius: 20px;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="45" height="45" alt="Ollama" style="background-color: #242938; padding: 8px; border-radius: 20px;" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/000000" width="45" height="45" alt="Ollama" style="background-color: #f7f7f7; padding: 8px; border-radius: 20px;" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="45" height="45" alt="Cursor" style="background-color: #242938; padding: 8px; border-radius: 20px;" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="45" height="45" alt="GitHub Copilot" style="background-color: #242938; padding: 8px; border-radius: 20px;" />
 </p>
