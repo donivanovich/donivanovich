@@ -1,14 +1,14 @@
 ### 🤖 Artificial Intelligence & GenAI
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Anthropic-252A34?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/Claude-252A34?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-252A34?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
-  <img src="https://img.shields.io/badge/DeepSeek-252A34?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Perplexity-252A34?style=for-the-badge&logo=perplexity&logoColor=20B8CD" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/Ollama-252A34?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Cursor-252A34?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-252A34?style=for-the-badge&logo=githubcopilot&logoColor=8957E5" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/%20-252A34?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/%20-252A34?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/%20-252A34?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+  <img src="https://img.shields.io/badge/%20-252A34?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/%20-252A34?style=for-the-badge&logo=perplexity&logoColor=20B8CD" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/%20-252A34?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+  <img src="https://img.shields.io/badge/%20-252A34?style=for-the-badge&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
+  <img src="https://img.shields.io/badge/%20-252A34?style=for-the-badge&logo=githubcopilot&logoColor=8957E5" alt="GitHub Copilot" />
 </p>
 
 ---
